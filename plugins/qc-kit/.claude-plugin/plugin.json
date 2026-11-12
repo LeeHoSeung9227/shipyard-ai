@@ -1,0 +1,6 @@
+{
+  "name": "qc-kit",
+  "description": "주간 품질 보고용 집계·감사·작성 에이전트, weekly-ship 스킬, 원본 보호 훅",
+  "version": "0.1.0",
+  "author": { "name": "AI 교육팀" }
+}

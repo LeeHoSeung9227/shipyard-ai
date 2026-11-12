@@ -7,6 +7,11 @@
       "name": "qna-team-kit",
       "source": "./plugins/qna-team-kit",
       "description": "QnA 팀 공용 에이전트와 스킬"
+    },
+    {
+      "name": "qc-kit",
+      "source": "./plugins/qc-kit",
+      "description": "주간 품질 보고 집계·감사·작성 에이전트, weekly-ship 스킬, 원본 보호 훅"
     }
   ]
 }
